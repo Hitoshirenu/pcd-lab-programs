@@ -42,3 +42,27 @@ Replace YOUR_BRANCH_NAME with the name of the branch you created, here `haxzie-l
 ### Step 8
 Return to this original repository, You'll see a big green button saying. Compare and Pull Request. Submit the PR and Enjoy :tada:
 
+Notes : 
+Compiler Used : GNU C Compiler 
+Editor Used : G editor 
+Operating System: Linux (Ubuntu/Debian/Fedora)
+
+Instructions to run & execute C programs in Linux:
+
+Open TERMINAL
+
+    Applications -> SystemTools -> Terminal
+
+To create a C file
+
+    $ gedit filename.c
+
+To compile & check the errors
+
+    $ cc filename.c
+
+To Check results/output
+
+    $ ./a.out
+
+Happy coding
